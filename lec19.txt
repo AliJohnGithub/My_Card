@@ -1,0 +1,8 @@
+ child: Column(
+              children: [
+                CircleAvatar(
+                  backgroundImage: AssetImage('images/aj.png'),
+                  radius: 70.0,
+                )
+              ],
+          ),

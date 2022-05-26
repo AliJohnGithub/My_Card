@@ -1,0 +1,13 @@
+CircleAvatar(
+                  backgroundImage: AssetImage('images/aj.png'),
+                  backgroundColor: Colors.white,
+                  radius: 70.0,
+                ),
+                Text('Ali John',
+                  style: TextStyle(
+                    fontFamily: 'Pacifico',
+                    color: Colors.black,
+                  fontWeight: FontWeight.bold,
+                    fontSize: 30.0,
+                  ),
+                ),
